@@ -1,0 +1,3 @@
+For you to run the code, copy the defaultappliances.This is an example of simple text. data to appliances.This is an example of simple text.
+Run the appliances.cs file
+The code runs through CMD
