@@ -1,0 +1,25 @@
+Item Number: 189360200, Brand: Bosch, Quantity: 174, Wattage: 60, Color: black, Price: $2,000.00, Type: Refrigerator, Doors: 2, Height: 62, Width: 29
+Item Number: 535981394, Brand: Tefal, Quantity: 90, Wattage: 700, Color: bronze, Price: $320.00, Type: Dishwasher, Feature: Third Rack, Sound Rating: Qt
+Item Number: 516089502, Brand: Hoover, Quantity: 240, Wattage: 1200, Color: silver, Price: $250.00, Type: Dishwasher, Feature: Finger Print Resistant, Sound Rating: Qr
+Item Number: 255131796, Brand: Black & Decker, Quantity: 54, Wattage: 1500, Color: white, Price: $500.00, Type: Vacuum, Grade: Residential, Battery Voltage: 18 V
+Item Number: 254565387, Brand: Miele, Quantity: 86, Wattage: 1000, Color: grey, Price: $800.00, Type: Vacuum, Grade: Commercial, Battery Voltage: 24 V
+Item Number: 571522655, Brand: Philips, Quantity: 228, Wattage: 440, Color: grey, Price: $390.00, Type: Dishwasher, Feature: Finger Print Resistant, Sound Rating: M
+Item Number: 263788832, Brand: Hoover, Quantity: 59, Wattage: 600, Color: black, Price: $750.00, Type: Vacuum, Grade: Residential, Battery Voltage: 18 V
+Item Number: 408018499, Brand: Bosch, Quantity: 54, Wattage: 500, Color: white, Price: $250.00, Type: Dishwasher, Feature: Third Rack, Sound Rating: Qu
+Item Number: 143826003, Brand: Kenwood, Quantity: 0, Wattage: 4700, Color: silver, Price: $1,500.00, Type: Refrigerator, Doors: 2, Height: 62, Width: 32
+Item Number: 231784690, Brand: Russell Hobbs, Quantity: 155, Wattage: 175, Color: grey, Price: $380.00, Type: Vacuum, Grade: Residential, Battery Voltage: 18 V
+Item Number: 243074424, Brand: Tefal, Quantity: 61, Wattage: 4000, Color: black, Price: $760.00, Type: Vacuum, Grade: Residential, Battery Voltage: 18 V
+Item Number: 297972916, Brand: Dyson, Quantity: 104, Wattage: 1400, Color: bronze, Price: $530.00, Type: Vacuum, Grade: Commercial, Battery Voltage: 24 V
+Item Number: 146947171, Brand: Black & Decker, Quantity: 112, Wattage: 1800, Color: grey, Price: $1,800.00, Type: Refrigerator, Doors: 3, Height: 70, Width: 31
+Item Number: 302618394, Brand: Hoover, Quantity: 159, Wattage: 100, Color: white, Price: $99.99, Type: Microwave, Capacity: 1.1 cu.ft, Room Type: K
+Item Number: 493374445, Brand: Philips, Quantity: 125, Wattage: 1650, Color: silver, Price: $510.00, Type: Dishwasher, Feature: Clean with Steam, Sound Rating: M
+Item Number: 383477937, Brand: Miele, Quantity: 201, Wattage: 2350, Color: white, Price: $179.90, Type: Microwave, Capacity: 1.8 cu.ft, Room Type: K
+Item Number: 119638199, Brand: Vax, Quantity: 134, Wattage: 1200, Color: black, Price: $2,650.00, Type: Refrigerator, Doors: 4, Height: 66, Width: 29
+Item Number: 244733872, Brand: Bosch, Quantity: 133, Wattage: 700, Color: grey, Price: $430.00, Type: Vacuum, Grade: Commercial, Battery Voltage: 24 V
+Item Number: 587065284, Brand: Kenwood, Quantity: 74, Wattage: 1010, Color: silver, Price: $430.00, Type: Dishwasher, Feature: Clean with Steam, Sound Rating: Qu
+Item Number: 240201796, Brand: Dyson, Quantity: 81, Wattage: 1050, Color: white, Price: $290.00, Type: Vacuum, Grade: Residential, Battery Voltage: 18 V
+Item Number: 172911121, Brand: Philips, Quantity: 144, Wattage: 700, Color: black, Price: $3,100.00, Type: Refrigerator, Doors: 3, Height: 71, Width: 30
+Item Number: 328237584, Brand: Miele, Quantity: 90, Wattage: 1200, Color: bronze, Price: $250.23, Type: Microwave, Capacity: 2.1 cu.ft, Room Type: W
+Item Number: 118963476, Brand: Russell Hobbs, Quantity: 146, Wattage: 1150, Color: grey, Price: $2,360.00, Type: Refrigerator, Doors: 4, Height: 73, Width: 32
+Item Number: 333607621, Brand: Vax, Quantity: 113, Wattage: 440, Color: silver, Price: $123.99, Type: Microwave, Capacity: 1.6 cu.ft, Room Type: W
+Item Number: 274807482, Brand: Black & Decker, Quantity: 30, Wattage: 1800, Color: black, Price: $375.00, Type: Vacuum, Grade: Commercial, Battery Voltage: 24 V

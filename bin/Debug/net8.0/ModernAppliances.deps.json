@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ModernAppliances/1.0.0": {
+        "runtime": {
+          "ModernAppliances.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModernAppliances/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

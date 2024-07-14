@@ -1,0 +1,14 @@
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\bin\Debug\net8.0\ModernAppliances.exe
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\bin\Debug\net8.0\ModernAppliances.deps.json
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\bin\Debug\net8.0\ModernAppliances.runtimeconfig.json
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\bin\Debug\net8.0\ModernAppliances.dll
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\bin\Debug\net8.0\ModernAppliances.pdb
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.dll
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\refint\ModernAppliances.dll
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.pdb
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\braisonW\Desktop\C# appliances\ModernAppliances\obj\Debug\net8.0\ref\ModernAppliances.dll
